@@ -60,9 +60,9 @@ pip install -r requirements.txt
 
 ### 3️⃣ Configure Environment Variables (Local)
 Create a .env file in the root directory:
----
+```bash
 OPENAI_API_KEY=your_openai_api_key_here
----
+```
 
 ### ▶️ Run the Application
 ```bash
