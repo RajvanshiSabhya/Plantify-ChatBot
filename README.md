@@ -32,7 +32,7 @@ It answers agriculture-related questions in English and strictly restricts respo
 ---
 
 ## 📂 Project Structure
-
+```bash
 Plantify-ChatBot/
 │
 ├── app.py  
@@ -40,6 +40,7 @@ Plantify-ChatBot/
 ├── .gitignore  
 ├── .env.example  
 └── README.md  
+```
 
 ---
 
