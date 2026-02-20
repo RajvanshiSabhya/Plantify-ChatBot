@@ -7,7 +7,7 @@ It answers agriculture-related questions in English and strictly restricts respo
 
 ## 🚀 Live Demo
 
-🔗 https://your-app-link.streamlit.app  
+🔗 https://plantify-chatbot-anhzrhvjbmw8wbyn6ridhd.streamlit.app/
 
 ---
 
